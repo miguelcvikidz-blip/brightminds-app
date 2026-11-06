@@ -1,0 +1,2 @@
+# brightminds-app
+Demo brightminds
